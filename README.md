@@ -17,6 +17,11 @@ An ESP32-based IoT healthcare monitoring system designed for real-time health tr
 - GSM Module
 - Sensor Interfacing
 
+## Project Files
+- Source Code
+- Project Report
+- Project Presentation
+
 ## Applications
 - Smart healthcare systems
 - Emergency response monitoring
